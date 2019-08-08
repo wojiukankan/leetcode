@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b85a5f0-d2c8-4ba3-8677-f18c0e897eea" name="默认更改列表" comment="6">
-      <change afterPath="$PROJECT_DIR$/6.php" afterDir="false" />
+    <list default="true" id="2b85a5f0-d2c8-4ba3-8677-f18c0e897eea" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/7.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/5.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.php">
+        <entry file="file://$PROJECT_DIR$/7.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+            <state relative-caret-position="344">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -47,6 +46,7 @@
         <option value="$PROJECT_DIR$/4.php" />
         <option value="$PROJECT_DIR$/6.php" />
         <option value="$PROJECT_DIR$/5.php" />
+        <option value="$PROJECT_DIR$/7.php" />
       </list>
     </option>
   </component>
@@ -55,8 +55,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="7.2" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="882" />
-    <option name="y" value="49" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1217" />
     <option name="height" value="1056" />
   </component>
@@ -93,7 +93,7 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,11 +107,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.5.php">
+  <component name="RunManager" selected="PHP Script.7.php">
     <configuration name="standard_1.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/leetcode/standard/standard_1.php" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/1.php">
       <method v="2" />
     </configuration>
     <configuration name="3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/3.php">
@@ -123,13 +120,16 @@
     <configuration name="5.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/5.php">
       <method v="2" />
     </configuration>
+    <configuration name="7.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/7.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.7.php" />
         <item itemvalue="PHP Script.5.php" />
         <item itemvalue="JavaScript Debug.standard_1.php" />
         <item itemvalue="PHP Script.4.php" />
         <item itemvalue="PHP Script.3.php" />
-        <item itemvalue="PHP Script.1.php" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,8 @@
       <updated>1565060025790</updated>
       <workItem from="1565060026935" duration="5651000" />
       <workItem from="1565072447516" duration="678000" />
-      <workItem from="1565144106018" duration="9071000" />
+      <workItem from="1565144106018" duration="13049000" />
+      <workItem from="1565229144254" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1565072497088</created>
@@ -154,23 +155,29 @@
       <option name="project" value="LOCAL" />
       <updated>1565072497088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="6">
+      <created>1565161432642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565161432642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15400000" />
+    <option name="totallyTimeSpent" value="19978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1444563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.090618335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26927504" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.31537598" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -179,8 +186,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.38780206" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.30864197" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.46720368" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -196,13 +204,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -236,8 +237,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        <state relative-caret-position="394">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
