@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b85a5f0-d2c8-4ba3-8677-f18c0e897eea" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php-docker-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-docker-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/2.go" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.php" beforeDir="false" afterPath="$PROJECT_DIR$/11.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/4/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +47,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hash" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +64,14 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\leetcode\5" />
+      <recent name="G:\leetcode\4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,42 +85,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 2.go">
-    <configuration name="go build 2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/2/2.go" />
-      <directory value="$PROJECT_DIR$/" />
+  <component name="RunManager" selected="PHP Script.17.php">
+    <configuration name="11.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/11.php">
       <method v="2" />
     </configuration>
-    <configuration name="leetcode" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$" />
+    <configuration name="13.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13.php">
       <method v="2" />
     </configuration>
-    <configuration name="10.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/10.php">
+    <configuration name="14.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/14.php">
       <method v="2" />
     </configuration>
-    <configuration name="1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/1.php">
+    <configuration name="15.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15.php">
       <method v="2" />
     </configuration>
-    <configuration name="2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/2.php">
+    <configuration name="17.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/17.php">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.1.php" />
-      <item itemvalue="PHP Script.2.php" />
-      <item itemvalue="PHP Script.10.php" />
-      <item itemvalue="PHPUnit.leetcode" />
-      <item itemvalue="Go Build.go build 2.go" />
+      <item itemvalue="PHP Script.11.php" />
+      <item itemvalue="PHP Script.13.php" />
+      <item itemvalue="PHP Script.14.php" />
+      <item itemvalue="PHP Script.15.php" />
+      <item itemvalue="PHP Script.17.php" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 2.go" />
-        <item itemvalue="PHP Script.10.php" />
-        <item itemvalue="PHP Script.2.php" />
-        <item itemvalue="PHP Script.1.php" />
-        <item itemvalue="PHPUnit.leetcode" />
+        <item itemvalue="PHP Script.17.php" />
+        <item itemvalue="PHP Script.15.php" />
+        <item itemvalue="PHP Script.14.php" />
+        <item itemvalue="PHP Script.13.php" />
+        <item itemvalue="PHP Script.11.php" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +143,11 @@
       <workItem from="1565144106018" duration="13049000" />
       <workItem from="1565229144254" duration="7504000" />
       <workItem from="1565315678888" duration="4662000" />
-      <workItem from="1565575538064" duration="3688000" />
+      <workItem from="1565575538064" duration="4993000" />
+      <workItem from="1565660853893" duration="1275000" />
+      <workItem from="1565683799263" duration="567000" />
+      <workItem from="1565752251184" duration="3838000" />
+      <workItem from="1566798829666" duration="8321000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1565072497088</created>
@@ -176,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565257465717</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2.go">
+      <created>1565582732580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565582732580</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,20 +218,21 @@
     <MESSAGE value="7" />
     <MESSAGE value="8" />
     <MESSAGE value="9" />
-    <option name="LAST_COMMIT_MESSAGE" value="9" />
+    <MESSAGE value="2.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.go" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/2/2.go</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/11.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/2/2.go</url>
-          <line>44</line>
-          <option name="timeStamp" value="2" />
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/13.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
