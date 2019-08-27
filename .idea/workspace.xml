@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b85a5f0-d2c8-4ba3-8677-f18c0e897eea" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/13.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.php" beforeDir="false" afterPath="$PROJECT_DIR$/11.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/4/4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +62,9 @@
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\leetcode" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\leetcode\5" />
       <recent name="G:\leetcode\4" />
@@ -85,36 +82,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.17.php">
-    <configuration name="11.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/11.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="13.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="14.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/14.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.21.php">
     <configuration name="15.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15.php">
       <method v="2" />
     </configuration>
     <configuration name="17.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/17.php">
       <method v="2" />
     </configuration>
+    <configuration name="19.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/19.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="20.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/20.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="21.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/21.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.11.php" />
-      <item itemvalue="PHP Script.13.php" />
-      <item itemvalue="PHP Script.14.php" />
       <item itemvalue="PHP Script.15.php" />
       <item itemvalue="PHP Script.17.php" />
+      <item itemvalue="PHP Script.19.php" />
+      <item itemvalue="PHP Script.20.php" />
+      <item itemvalue="PHP Script.21.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.21.php" />
+        <item itemvalue="PHP Script.20.php" />
+        <item itemvalue="PHP Script.19.php" />
         <item itemvalue="PHP Script.17.php" />
         <item itemvalue="PHP Script.15.php" />
-        <item itemvalue="PHP Script.14.php" />
-        <item itemvalue="PHP Script.13.php" />
-        <item itemvalue="PHP Script.11.php" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +144,7 @@
       <workItem from="1565660853893" duration="1275000" />
       <workItem from="1565683799263" duration="567000" />
       <workItem from="1565752251184" duration="3838000" />
-      <workItem from="1566798829666" duration="8321000" />
+      <workItem from="1566798829666" duration="12028000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1565072497088</created>
@@ -191,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565582732580</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="17">
+      <created>1566808651341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566808651341</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +223,9 @@
     <MESSAGE value="8" />
     <MESSAGE value="9" />
     <MESSAGE value="2.go" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.go" />
+    <MESSAGE value="17" />
+    <MESSAGE value="21" />
+    <option name="LAST_COMMIT_MESSAGE" value="21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -234,7 +240,18 @@
           <line>29</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/20.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PhpLocalRunConfigurationType">
+        <watch expression="$j" />
+        <watch expression="$j" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
