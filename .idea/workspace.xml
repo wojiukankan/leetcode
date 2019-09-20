@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b85a5f0-d2c8-4ba3-8677-f18c0e897eea" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/19.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="cli:latest" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1PIxiCh5w1jc0ESDpnUHZVmRr4c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="更新" />
@@ -59,7 +59,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -82,36 +82,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.21.php">
-    <configuration name="15.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="17.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/17.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="19.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/19.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.28.php">
     <configuration name="20.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/20.php">
       <method v="2" />
     </configuration>
     <configuration name="21.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/21.php">
       <method v="2" />
     </configuration>
+    <configuration name="26.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/26.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="27.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/27.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="28.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/28.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.15.php" />
-      <item itemvalue="PHP Script.17.php" />
-      <item itemvalue="PHP Script.19.php" />
       <item itemvalue="PHP Script.20.php" />
       <item itemvalue="PHP Script.21.php" />
+      <item itemvalue="PHP Script.26.php" />
+      <item itemvalue="PHP Script.27.php" />
+      <item itemvalue="PHP Script.28.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.28.php" />
+        <item itemvalue="PHP Script.27.php" />
+        <item itemvalue="PHP Script.26.php" />
         <item itemvalue="PHP Script.21.php" />
         <item itemvalue="PHP Script.20.php" />
-        <item itemvalue="PHP Script.19.php" />
-        <item itemvalue="PHP Script.17.php" />
-        <item itemvalue="PHP Script.15.php" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,8 @@
       <workItem from="1565660853893" duration="1275000" />
       <workItem from="1565683799263" duration="567000" />
       <workItem from="1565752251184" duration="3838000" />
-      <workItem from="1566798829666" duration="12028000" />
+      <workItem from="1566798829666" duration="12044000" />
+      <workItem from="1568877882062" duration="2559000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1565072497088</created>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566808651341</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="21">
+      <created>1566895439618</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1566895439618</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,13 +253,12 @@
           <line>15</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/28.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PhpLocalRunConfigurationType">
-        <watch expression="$j" />
-        <watch expression="$j" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
