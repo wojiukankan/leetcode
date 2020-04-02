@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b85a5f0-d2c8-4ba3-8677-f18c0e897eea" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2b85a5f0-d2c8-4ba3-8677-f18c0e897eea" name="默认更改列表" comment="28">
+      <change afterPath="$PROJECT_DIR$/35.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28.php" beforeDir="false" afterPath="$PROJECT_DIR$/28.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,36 +77,36 @@
       <recent name="G:\leetcode\4" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.28.php">
-    <configuration name="20.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/20.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="21.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/21.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="26.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/26.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.53.php">
     <configuration name="27.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/27.php">
       <method v="2" />
     </configuration>
     <configuration name="28.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/28.php">
       <method v="2" />
     </configuration>
+    <configuration name="35.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/35.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="38.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/38.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="53.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/53.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.20.php" />
-      <item itemvalue="PHP Script.21.php" />
-      <item itemvalue="PHP Script.26.php" />
       <item itemvalue="PHP Script.27.php" />
       <item itemvalue="PHP Script.28.php" />
+      <item itemvalue="PHP Script.35.php" />
+      <item itemvalue="PHP Script.38.php" />
+      <item itemvalue="PHP Script.53.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.53.php" />
+        <item itemvalue="PHP Script.38.php" />
+        <item itemvalue="PHP Script.35.php" />
         <item itemvalue="PHP Script.28.php" />
         <item itemvalue="PHP Script.27.php" />
-        <item itemvalue="PHP Script.26.php" />
-        <item itemvalue="PHP Script.21.php" />
-        <item itemvalue="PHP Script.20.php" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,7 @@
       <workItem from="1565752251184" duration="3838000" />
       <workItem from="1566798829666" duration="12044000" />
       <workItem from="1568877882062" duration="2559000" />
-      <workItem from="1585797156042" duration="2464000" />
+      <workItem from="1585797156042" duration="12376000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1565072497088</created>
@@ -215,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566895439618</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="28">
+      <created>1585799632426</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585799632426</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +253,8 @@
     <MESSAGE value="2.go" />
     <MESSAGE value="17" />
     <MESSAGE value="21" />
-    <option name="LAST_COMMIT_MESSAGE" value="21" />
+    <MESSAGE value="28" />
+    <option name="LAST_COMMIT_MESSAGE" value="28" />
   </component>
   <component name="WindowStateProjectService">
     <state x="657" y="189" width="639" height="658" key="#28.php" timestamp="1585797951818">
@@ -256,38 +265,50 @@
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
     <state x="571" y="67" key="#PHP/0.0.1920.1037@0.0.1920.1037" timestamp="1585797950556" />
-    <state width="1874" height="166" key="GridCell.Tab.0.bottom" timestamp="1585798987013">
+    <state x="523" y="17" key="CommitChangelistDialog2" timestamp="1585799632341">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1585798987013" />
-    <state width="1874" height="166" key="GridCell.Tab.0.center" timestamp="1585798987013">
+    <state x="523" y="17" key="CommitChangelistDialog2/0.0.1920.1037@0.0.1920.1037" timestamp="1585799632341" />
+    <state width="1874" height="213" key="GridCell.Tab.0.bottom" timestamp="1585816454921">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="166" key="GridCell.Tab.0.center/0.0.1920.1037@0.0.1920.1037" timestamp="1585798987013" />
-    <state width="1874" height="166" key="GridCell.Tab.0.left" timestamp="1585798987013">
+    <state width="1874" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454921" />
+    <state width="1874" height="213" key="GridCell.Tab.0.center" timestamp="1585816454921">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="166" key="GridCell.Tab.0.left/0.0.1920.1037@0.0.1920.1037" timestamp="1585798987013" />
-    <state width="1874" height="166" key="GridCell.Tab.0.right" timestamp="1585798987013">
+    <state width="1874" height="213" key="GridCell.Tab.0.center/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454921" />
+    <state width="1874" height="213" key="GridCell.Tab.0.left" timestamp="1585816454920">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="166" key="GridCell.Tab.0.right/0.0.1920.1037@0.0.1920.1037" timestamp="1585798987013" />
-    <state width="1874" height="346" key="GridCell.Tab.1.bottom" timestamp="1585798925225">
+    <state width="1874" height="213" key="GridCell.Tab.0.left/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454920" />
+    <state width="1874" height="213" key="GridCell.Tab.0.right" timestamp="1585816454921">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1585798925225" />
-    <state width="1874" height="346" key="GridCell.Tab.1.center" timestamp="1585798925225">
+    <state width="1874" height="213" key="GridCell.Tab.0.right/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454921" />
+    <state width="1874" height="213" key="GridCell.Tab.1.bottom" timestamp="1585816454921">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="346" key="GridCell.Tab.1.center/0.0.1920.1037@0.0.1920.1037" timestamp="1585798925225" />
-    <state width="1874" height="346" key="GridCell.Tab.1.left" timestamp="1585798925225">
+    <state width="1874" height="213" key="GridCell.Tab.1.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454921" />
+    <state width="1874" height="213" key="GridCell.Tab.1.center" timestamp="1585816454921">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="346" key="GridCell.Tab.1.left/0.0.1920.1037@0.0.1920.1037" timestamp="1585798925225" />
-    <state width="1874" height="346" key="GridCell.Tab.1.right" timestamp="1585798925225">
+    <state width="1874" height="213" key="GridCell.Tab.1.center/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454921" />
+    <state width="1874" height="213" key="GridCell.Tab.1.left" timestamp="1585816454921">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
-    <state width="1874" height="346" key="GridCell.Tab.1.right/0.0.1920.1037@0.0.1920.1037" timestamp="1585798925225" />
+    <state width="1874" height="213" key="GridCell.Tab.1.left/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454921" />
+    <state width="1874" height="213" key="GridCell.Tab.1.right" timestamp="1585816454921">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state width="1874" height="213" key="GridCell.Tab.1.right/0.0.1920.1037@0.0.1920.1037" timestamp="1585816454921" />
+    <state x="749" y="433" key="NewPhpFileDialog" timestamp="1585812628435">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="749" y="433" key="NewPhpFileDialog/0.0.1920.1037@0.0.1920.1037" timestamp="1585812628435" />
+    <state x="559" y="244" key="Vcs.Push.Dialog.v2" timestamp="1585799665727">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="559" y="244" key="Vcs.Push.Dialog.v2/0.0.1920.1037@0.0.1920.1037" timestamp="1585799665727" />
     <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1585798038865">
       <screen x="0" y="0" width="1920" height="1037" />
     </state>
@@ -310,6 +331,11 @@
           <url>file://$PROJECT_DIR$/20.php</url>
           <line>15</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/53.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
